@@ -1,2 +1,2 @@
 # try01
-git_practice
+git_practice: Hello everyone
